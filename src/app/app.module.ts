@@ -11,6 +11,7 @@ import { DashComponent } from './dash/dash.component';
 import { VarshanComponent } from './varshan/varshan.component';
 import { PrakshComponent } from './praksh/praksh.component';
 import { NewProjectComponent } from './new-project/new-project.component';
+import { NewProject1Component } from './new-project1/new-project1.component';
 
 
 
@@ -22,6 +23,7 @@ import { NewProjectComponent } from './new-project/new-project.component';
     VarshanComponent,
     PrakshComponent,
     NewProjectComponent,
+    NewProject1Component,
 
   ],
   imports: [
